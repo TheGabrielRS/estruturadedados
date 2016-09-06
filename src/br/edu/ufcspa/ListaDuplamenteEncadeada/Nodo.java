@@ -39,4 +39,5 @@ public class Nodo {
     public void setProximo(Nodo proximo) {
         this.proximo = proximo;
     }
+
 }

@@ -1,4 +1,6 @@
-package br.edu.ufcspa.ListaDuplamenteEncadeada;
+package br.edu.ufcspa.Main;
+
+import br.edu.ufcspa.ListaDuplamenteEncadeada.ListaDuplamenteEncadeada;
 
 /**
  * Created by GabrielRS on 03/09/2016.
